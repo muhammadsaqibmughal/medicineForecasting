@@ -1,0 +1,6 @@
+id,pharmacyName,licenseNumber,phoneNumber,city,state,latitude,longitude
+pharm_1,Karachi Medical Store,PK-LIC-000001,+92-300-2896918,Karachi,Sindh,24.8607,67.0011
+pharm_2,Lahore Medical Store,PK-LIC-000002,+92-300-7748095,Lahore,Punjab,31.5497,74.3436
+pharm_3,Islamabad Medical Store,PK-LIC-000003,+92-300-2483491,Islamabad,ICT,33.6844,73.0479
+pharm_4,Rawalpindi Medical Store,PK-LIC-000004,+92-300-8793482,Rawalpindi,Punjab,33.5651,73.0169
+pharm_5,Faisalabad Medical Store,PK-LIC-000005,+92-300-1819081,Faisalabad,Punjab,31.4504,73.135

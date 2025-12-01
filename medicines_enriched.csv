@@ -1,0 +1,701 @@
+id,genericName,brandName,manufacturer,barcode,category,therapeuticClass,prescriptionRequired,seasonalityType,isFastMoving,isEssential
+med_1,Paracetamol,Panadol,GSK,PKM0000000001,Analgesics,NSAID/Analgesic,False,,True,False
+med_2,Paracetamol,Disprol,Reckitt Benckiser,PKM0000000002,Analgesics,NSAID/Analgesic,False,,True,False
+med_3,Ibuprofen,Brufen,Abbott,PKM0000000003,Analgesics,NSAID/Analgesic,False,,True,False
+med_4,Mefenamic Acid,Ponstan,Pfizer,PKM0000000004,Analgesics,NSAID/Analgesic,False,,False,False
+med_5,Diclofenac,Cataflam,Novartis,PKM0000000005,Analgesics,NSAID/Analgesic,False,,True,False
+med_6,Diclofenac,Voltaren,Novartis,PKM0000000006,Analgesics,NSAID/Analgesic,False,,True,False
+med_7,Aspirin,Disprin,Reckitt Benckiser,PKM0000000007,Analgesics,NSAID/Analgesic,False,,True,False
+med_8,Amoxicillin + Clavulanic Acid,Augmentin,GSK,PKM0000000008,Antibiotics,Antibiotic,True,,True,True
+med_9,Amoxicillin,Amoxil,GSK,PKM0000000009,Antibiotics,Antibiotic,True,,True,True
+med_10,Metronidazole,Flagyl,Sanofi,PKM0000000010,Antibiotics,Antibiotic,True,,True,True
+med_11,Ciprofloxacin,Ciproxin,Bayer,PKM0000000011,Antibiotics,Antibiotic,True,,True,True
+med_12,Azithromycin,Zithromax,Pfizer,PKM0000000012,Antibiotics,Antibiotic,True,,True,True
+med_13,Pheniramine,Avil,Sanofi,PKM0000000013,Antihistamines,Antihistamine,False,spring,False,False
+med_14,Cetirizine,Cetrizet,UCB,PKM0000000014,Antihistamines,Antihistamine,False,spring,True,False
+med_15,Cetirizine,Zyrtec,UCB,PKM0000000015,Antihistamines,Antihistamine,False,spring,True,False
+med_16,Salbutamol,Ventolin,GSK,PKM0000000016,Respiratory,Respiratory,True,winter,True,True
+med_17,Fluticasone + Salmeterol,Seretide,GSK,PKM0000000017,Respiratory,Respiratory,True,winter,False,True
+med_18,Diphenhydramine,Benadryl,Johnson & Johnson,PKM0000000018,Respiratory,Respiratory,False,winter,True,False
+med_19,Amlodipine,Norvasc,Pfizer,PKM0000000019,Antihypertensives,Antihypertensive,True,,True,True
+med_20,Bisoprolol,Concor,Merck,PKM0000000020,Antihypertensives,Antihypertensive,True,,True,True
+med_21,Nifedipine,Adalat,Bayer,PKM0000000021,Antihypertensives,Antihypertensive,True,,True,True
+med_22,Metformin,Glucophage,Merck,PKM0000000022,Antidiabetics,Antidiabetic,True,,True,True
+med_23,Gliclazide,Diamicron,Servier,PKM0000000023,Antidiabetics,Antidiabetic,True,,True,True
+med_24,Glimepiride,Amaryl,Sanofi,PKM0000000024,Antidiabetics,Antidiabetic,True,,True,True
+med_25,Domperidone,Motilium,Janssen,PKM0000000025,Gastrointestinal,Gastrointestinal,False,,True,False
+med_26,Esomeprazole,Nexium,AstraZeneca,PKM0000000026,Gastrointestinal,Gastrointestinal,True,,True,True
+med_27,Omeprazole,Risek,Getz Pharma,PKM0000000027,Gastrointestinal,Gastrointestinal,True,,True,True
+med_28,Vitamin B Complex,Neurobion,Merck,PKM0000000028,Vitamins,Vitamin/Supplement,False,,True,False
+med_29,Iron + Folic Acid,Fefol,GSK,PKM0000000029,Vitamins,Vitamin/Supplement,False,,True,False
+med_30,Multivitamin,Becosules,Pfizer,PKM0000000030,Vitamins,Vitamin/Supplement,False,,True,False
+med_31,Amoxicillin + Clavulanic Acid,Augmentin SR,GSK,PKM0000000031,Antibiotics,Antibiotic,True,,True,True
+med_32,Aspirin,Disprin XR,Reckitt Benckiser,PKM0000000032,Analgesics,NSAID/Analgesic,False,,True,False
+med_33,Glimepiride,Amaryl Forte,Sanofi,PKM0000000033,Antidiabetics,Antidiabetic,True,,True,True
+med_34,Pheniramine,Avil Forte,Sanofi,PKM0000000034,Antihistamines,Antihistamine,False,spring,False,False
+med_35,Nifedipine,Adalat Forte,Bayer,PKM0000000035,Antihypertensives,Antihypertensive,True,,True,True
+med_36,Omeprazole,Risek XR,Getz Pharma,PKM0000000036,Gastrointestinal,Gastrointestinal,True,,True,True
+med_37,Diphenhydramine,Benadryl Plus,Johnson & Johnson,PKM0000000037,Respiratory,Respiratory,False,winter,True,False
+med_38,Metformin,Glucophage Plus,Merck,PKM0000000038,Antidiabetics,Antidiabetic,True,,True,True
+med_39,Paracetamol,Panadol Plus,GSK,PKM0000000039,Analgesics,NSAID/Analgesic,False,,True,False
+med_40,Amlodipine,Norvasc SR,Pfizer,PKM0000000040,Antihypertensives,Antihypertensive,True,,True,True
+med_41,Vitamin B Complex,Neurobion Forte,Merck,PKM0000000041,Vitamins,Vitamin/Supplement,False,,True,False
+med_42,Amoxicillin,Amoxil Forte,GSK,PKM0000000042,Antibiotics,Antibiotic,True,,True,True
+med_43,Diclofenac,Voltaren Plus,Novartis,PKM0000000043,Analgesics,NSAID/Analgesic,False,,True,False
+med_44,Mefenamic Acid,Ponstan SR,Pfizer,PKM0000000044,Analgesics,NSAID/Analgesic,False,,False,False
+med_45,Amoxicillin + Clavulanic Acid,Augmentin Forte,GSK,PKM0000000045,Antibiotics,Antibiotic,True,,True,True
+med_46,Amlodipine,Norvasc Forte,Pfizer,PKM0000000046,Antihypertensives,Antihypertensive,True,,True,True
+med_47,Ibuprofen,Brufen Forte,Abbott,PKM0000000047,Analgesics,NSAID/Analgesic,False,,True,False
+med_48,Vitamin B Complex,Neurobion Forte,Merck,PKM0000000048,Vitamins,Vitamin/Supplement,False,,True,False
+med_49,Amlodipine,Norvasc Plus,Pfizer,PKM0000000049,Antihypertensives,Antihypertensive,True,,True,True
+med_50,Omeprazole,Risek XR,Getz Pharma,PKM0000000050,Gastrointestinal,Gastrointestinal,True,,True,True
+med_51,Diphenhydramine,Benadryl SR,Johnson & Johnson,PKM0000000051,Respiratory,Respiratory,False,winter,True,False
+med_52,Bisoprolol,Concor Plus,Merck,PKM0000000052,Antihypertensives,Antihypertensive,True,,True,True
+med_53,Bisoprolol,Concor Forte,Merck,PKM0000000053,Antihypertensives,Antihypertensive,True,,True,True
+med_54,Salbutamol,Ventolin Plus,GSK,PKM0000000054,Respiratory,Respiratory,True,winter,True,True
+med_55,Vitamin B Complex,Neurobion XR,Merck,PKM0000000055,Vitamins,Vitamin/Supplement,False,,True,False
+med_56,Paracetamol,Disprol Plus,Reckitt Benckiser,PKM0000000056,Analgesics,NSAID/Analgesic,False,,True,False
+med_57,Bisoprolol,Concor Plus,Merck,PKM0000000057,Antihypertensives,Antihypertensive,True,,True,True
+med_58,Bisoprolol,Concor SR,Merck,PKM0000000058,Antihypertensives,Antihypertensive,True,,True,True
+med_59,Pheniramine,Avil XR,Sanofi,PKM0000000059,Antihistamines,Antihistamine,False,spring,False,False
+med_60,Nifedipine,Adalat SR,Bayer,PKM0000000060,Antihypertensives,Antihypertensive,True,,True,True
+med_61,Mefenamic Acid,Ponstan SR,Pfizer,PKM0000000061,Analgesics,NSAID/Analgesic,False,,False,False
+med_62,Multivitamin,Becosules SR,Pfizer,PKM0000000062,Vitamins,Vitamin/Supplement,False,,True,False
+med_63,Bisoprolol,Concor SR,Merck,PKM0000000063,Antihypertensives,Antihypertensive,True,,True,True
+med_64,Amoxicillin + Clavulanic Acid,Augmentin Forte,GSK,PKM0000000064,Antibiotics,Antibiotic,True,,True,True
+med_65,Paracetamol,Panadol Plus,GSK,PKM0000000065,Analgesics,NSAID/Analgesic,False,,True,False
+med_66,Paracetamol,Disprol XR,Reckitt Benckiser,PKM0000000066,Analgesics,NSAID/Analgesic,False,,True,False
+med_67,Glimepiride,Amaryl SR,Sanofi,PKM0000000067,Antidiabetics,Antidiabetic,True,,True,True
+med_68,Aspirin,Disprin Plus,Reckitt Benckiser,PKM0000000068,Analgesics,NSAID/Analgesic,False,,True,False
+med_69,Iron + Folic Acid,Fefol Plus,GSK,PKM0000000069,Vitamins,Vitamin/Supplement,False,,True,False
+med_70,Esomeprazole,Nexium XR,AstraZeneca,PKM0000000070,Gastrointestinal,Gastrointestinal,True,,True,True
+med_71,Diclofenac,Cataflam SR,Novartis,PKM0000000071,Analgesics,NSAID/Analgesic,False,,True,False
+med_72,Paracetamol,Disprol SR,Reckitt Benckiser,PKM0000000072,Analgesics,NSAID/Analgesic,False,,True,False
+med_73,Paracetamol,Disprol SR,Reckitt Benckiser,PKM0000000073,Analgesics,NSAID/Analgesic,False,,True,False
+med_74,Esomeprazole,Nexium XR,AstraZeneca,PKM0000000074,Gastrointestinal,Gastrointestinal,True,,True,True
+med_75,Mefenamic Acid,Ponstan Forte,Pfizer,PKM0000000075,Analgesics,NSAID/Analgesic,False,,False,False
+med_76,Cetirizine,Zyrtec Forte,UCB,PKM0000000076,Antihistamines,Antihistamine,False,spring,True,False
+med_77,Paracetamol,Disprol Forte,Reckitt Benckiser,PKM0000000077,Analgesics,NSAID/Analgesic,False,,True,False
+med_78,Aspirin,Disprin XR,Reckitt Benckiser,PKM0000000078,Analgesics,NSAID/Analgesic,False,,True,False
+med_79,Amlodipine,Norvasc XR,Pfizer,PKM0000000079,Antihypertensives,Antihypertensive,True,,True,True
+med_80,Salbutamol,Ventolin Plus,GSK,PKM0000000080,Respiratory,Respiratory,True,winter,True,True
+med_81,Iron + Folic Acid,Fefol SR,GSK,PKM0000000081,Vitamins,Vitamin/Supplement,False,,True,False
+med_82,Ibuprofen,Brufen XR,Abbott,PKM0000000082,Analgesics,NSAID/Analgesic,False,,True,False
+med_83,Cetirizine,Zyrtec XR,UCB,PKM0000000083,Antihistamines,Antihistamine,False,spring,True,False
+med_84,Metronidazole,Flagyl Plus,Sanofi,PKM0000000084,Antibiotics,Antibiotic,True,,True,True
+med_85,Multivitamin,Becosules XR,Pfizer,PKM0000000085,Vitamins,Vitamin/Supplement,False,,True,False
+med_86,Vitamin B Complex,Neurobion Forte,Merck,PKM0000000086,Vitamins,Vitamin/Supplement,False,,True,False
+med_87,Omeprazole,Risek XR,Getz Pharma,PKM0000000087,Gastrointestinal,Gastrointestinal,True,,True,True
+med_88,Amoxicillin + Clavulanic Acid,Augmentin SR,GSK,PKM0000000088,Antibiotics,Antibiotic,True,,True,True
+med_89,Mefenamic Acid,Ponstan SR,Pfizer,PKM0000000089,Analgesics,NSAID/Analgesic,False,,False,False
+med_90,Amoxicillin + Clavulanic Acid,Augmentin Plus,GSK,PKM0000000090,Antibiotics,Antibiotic,True,,True,True
+med_91,Aspirin,Disprin SR,Reckitt Benckiser,PKM0000000091,Analgesics,NSAID/Analgesic,False,,True,False
+med_92,Ciprofloxacin,Ciproxin SR,Bayer,PKM0000000092,Antibiotics,Antibiotic,True,,True,True
+med_93,Amlodipine,Norvasc SR,Pfizer,PKM0000000093,Antihypertensives,Antihypertensive,True,,True,True
+med_94,Paracetamol,Disprol Plus,Reckitt Benckiser,PKM0000000094,Analgesics,NSAID/Analgesic,False,,True,False
+med_95,Azithromycin,Zithromax SR,Pfizer,PKM0000000095,Antibiotics,Antibiotic,True,,True,True
+med_96,Metformin,Glucophage SR,Merck,PKM0000000096,Antidiabetics,Antidiabetic,True,,True,True
+med_97,Domperidone,Motilium Forte,Janssen,PKM0000000097,Gastrointestinal,Gastrointestinal,False,,True,False
+med_98,Aspirin,Disprin Forte,Reckitt Benckiser,PKM0000000098,Analgesics,NSAID/Analgesic,False,,True,False
+med_99,Amoxicillin,Amoxil XR,GSK,PKM0000000099,Antibiotics,Antibiotic,True,,True,True
+med_100,Azithromycin,Zithromax Forte,Pfizer,PKM0000000100,Antibiotics,Antibiotic,True,,True,True
+med_101,Glimepiride,Amaryl XR,Sanofi,PKM0000000101,Antidiabetics,Antidiabetic,True,,True,True
+med_102,Paracetamol,Disprol Forte,Reckitt Benckiser,PKM0000000102,Analgesics,NSAID/Analgesic,False,,True,False
+med_103,Ibuprofen,Brufen XR,Abbott,PKM0000000103,Analgesics,NSAID/Analgesic,False,,True,False
+med_104,Paracetamol,Disprol Plus,Reckitt Benckiser,PKM0000000104,Analgesics,NSAID/Analgesic,False,,True,False
+med_105,Ciprofloxacin,Ciproxin Forte,Bayer,PKM0000000105,Antibiotics,Antibiotic,True,,True,True
+med_106,Omeprazole,Risek Plus,Getz Pharma,PKM0000000106,Gastrointestinal,Gastrointestinal,True,,True,True
+med_107,Cetirizine,Cetrizet SR,UCB,PKM0000000107,Antihistamines,Antihistamine,False,spring,True,False
+med_108,Metronidazole,Flagyl XR,Sanofi,PKM0000000108,Antibiotics,Antibiotic,True,,True,True
+med_109,Amlodipine,Norvasc Forte,Pfizer,PKM0000000109,Antihypertensives,Antihypertensive,True,,True,True
+med_110,Gliclazide,Diamicron SR,Servier,PKM0000000110,Antidiabetics,Antidiabetic,True,,True,True
+med_111,Gliclazide,Diamicron XR,Servier,PKM0000000111,Antidiabetics,Antidiabetic,True,,True,True
+med_112,Cetirizine,Cetrizet Forte,UCB,PKM0000000112,Antihistamines,Antihistamine,False,spring,True,False
+med_113,Amoxicillin + Clavulanic Acid,Augmentin SR,GSK,PKM0000000113,Antibiotics,Antibiotic,True,,True,True
+med_114,Nifedipine,Adalat Plus,Bayer,PKM0000000114,Antihypertensives,Antihypertensive,True,,True,True
+med_115,Diphenhydramine,Benadryl Forte,Johnson & Johnson,PKM0000000115,Respiratory,Respiratory,False,winter,True,False
+med_116,Metformin,Glucophage Plus,Merck,PKM0000000116,Antidiabetics,Antidiabetic,True,,True,True
+med_117,Diphenhydramine,Benadryl Forte,Johnson & Johnson,PKM0000000117,Respiratory,Respiratory,False,winter,True,False
+med_118,Gliclazide,Diamicron Forte,Servier,PKM0000000118,Antidiabetics,Antidiabetic,True,,True,True
+med_119,Paracetamol,Panadol Forte,GSK,PKM0000000119,Analgesics,NSAID/Analgesic,False,,True,False
+med_120,Diclofenac,Cataflam XR,Novartis,PKM0000000120,Analgesics,NSAID/Analgesic,False,,True,False
+med_121,Amoxicillin + Clavulanic Acid,Augmentin Plus,GSK,PKM0000000121,Antibiotics,Antibiotic,True,,True,True
+med_122,Iron + Folic Acid,Fefol SR,GSK,PKM0000000122,Vitamins,Vitamin/Supplement,False,,True,False
+med_123,Vitamin B Complex,Neurobion SR,Merck,PKM0000000123,Vitamins,Vitamin/Supplement,False,,True,False
+med_124,Azithromycin,Zithromax XR,Pfizer,PKM0000000124,Antibiotics,Antibiotic,True,,True,True
+med_125,Amoxicillin + Clavulanic Acid,Augmentin Plus,GSK,PKM0000000125,Antibiotics,Antibiotic,True,,True,True
+med_126,Azithromycin,Zithromax Forte,Pfizer,PKM0000000126,Antibiotics,Antibiotic,True,,True,True
+med_127,Azithromycin,Zithromax XR,Pfizer,PKM0000000127,Antibiotics,Antibiotic,True,,True,True
+med_128,Diclofenac,Voltaren SR,Novartis,PKM0000000128,Analgesics,NSAID/Analgesic,False,,True,False
+med_129,Diclofenac,Cataflam XR,Novartis,PKM0000000129,Analgesics,NSAID/Analgesic,False,,True,False
+med_130,Diclofenac,Cataflam XR,Novartis,PKM0000000130,Analgesics,NSAID/Analgesic,False,,True,False
+med_131,Diclofenac,Voltaren SR,Novartis,PKM0000000131,Analgesics,NSAID/Analgesic,False,,True,False
+med_132,Amlodipine,Norvasc SR,Pfizer,PKM0000000132,Antihypertensives,Antihypertensive,True,,True,True
+med_133,Gliclazide,Diamicron XR,Servier,PKM0000000133,Antidiabetics,Antidiabetic,True,,True,True
+med_134,Omeprazole,Risek XR,Getz Pharma,PKM0000000134,Gastrointestinal,Gastrointestinal,True,,True,True
+med_135,Mefenamic Acid,Ponstan Forte,Pfizer,PKM0000000135,Analgesics,NSAID/Analgesic,False,,False,False
+med_136,Salbutamol,Ventolin XR,GSK,PKM0000000136,Respiratory,Respiratory,True,winter,True,True
+med_137,Diclofenac,Voltaren Forte,Novartis,PKM0000000137,Analgesics,NSAID/Analgesic,False,,True,False
+med_138,Diclofenac,Cataflam XR,Novartis,PKM0000000138,Analgesics,NSAID/Analgesic,False,,True,False
+med_139,Cetirizine,Cetrizet Forte,UCB,PKM0000000139,Antihistamines,Antihistamine,False,spring,True,False
+med_140,Bisoprolol,Concor Forte,Merck,PKM0000000140,Antihypertensives,Antihypertensive,True,,True,True
+med_141,Amoxicillin + Clavulanic Acid,Augmentin SR,GSK,PKM0000000141,Antibiotics,Antibiotic,True,,True,True
+med_142,Gliclazide,Diamicron Forte,Servier,PKM0000000142,Antidiabetics,Antidiabetic,True,,True,True
+med_143,Paracetamol,Disprol Forte,Reckitt Benckiser,PKM0000000143,Analgesics,NSAID/Analgesic,False,,True,False
+med_144,Amoxicillin,Amoxil SR,GSK,PKM0000000144,Antibiotics,Antibiotic,True,,True,True
+med_145,Diclofenac,Voltaren SR,Novartis,PKM0000000145,Analgesics,NSAID/Analgesic,False,,True,False
+med_146,Bisoprolol,Concor SR,Merck,PKM0000000146,Antihypertensives,Antihypertensive,True,,True,True
+med_147,Paracetamol,Panadol SR,GSK,PKM0000000147,Analgesics,NSAID/Analgesic,False,,True,False
+med_148,Nifedipine,Adalat Forte,Bayer,PKM0000000148,Antihypertensives,Antihypertensive,True,,True,True
+med_149,Mefenamic Acid,Ponstan XR,Pfizer,PKM0000000149,Analgesics,NSAID/Analgesic,False,,False,False
+med_150,Diclofenac,Voltaren SR,Novartis,PKM0000000150,Analgesics,NSAID/Analgesic,False,,True,False
+med_151,Glimepiride,Amaryl Forte,Sanofi,PKM0000000151,Antidiabetics,Antidiabetic,True,,True,True
+med_152,Ciprofloxacin,Ciproxin Plus,Bayer,PKM0000000152,Antibiotics,Antibiotic,True,,True,True
+med_153,Salbutamol,Ventolin SR,GSK,PKM0000000153,Respiratory,Respiratory,True,winter,True,True
+med_154,Omeprazole,Risek Plus,Getz Pharma,PKM0000000154,Gastrointestinal,Gastrointestinal,True,,True,True
+med_155,Metformin,Glucophage Plus,Merck,PKM0000000155,Antidiabetics,Antidiabetic,True,,True,True
+med_156,Multivitamin,Becosules XR,Pfizer,PKM0000000156,Vitamins,Vitamin/Supplement,False,,True,False
+med_157,Azithromycin,Zithromax XR,Pfizer,PKM0000000157,Antibiotics,Antibiotic,True,,True,True
+med_158,Pheniramine,Avil Forte,Sanofi,PKM0000000158,Antihistamines,Antihistamine,False,spring,False,False
+med_159,Metronidazole,Flagyl XR,Sanofi,PKM0000000159,Antibiotics,Antibiotic,True,,True,True
+med_160,Cetirizine,Zyrtec XR,UCB,PKM0000000160,Antihistamines,Antihistamine,False,spring,True,False
+med_161,Glimepiride,Amaryl XR,Sanofi,PKM0000000161,Antidiabetics,Antidiabetic,True,,True,True
+med_162,Diclofenac,Cataflam SR,Novartis,PKM0000000162,Analgesics,NSAID/Analgesic,False,,True,False
+med_163,Esomeprazole,Nexium XR,AstraZeneca,PKM0000000163,Gastrointestinal,Gastrointestinal,True,,True,True
+med_164,Azithromycin,Zithromax Forte,Pfizer,PKM0000000164,Antibiotics,Antibiotic,True,,True,True
+med_165,Amoxicillin,Amoxil Forte,GSK,PKM0000000165,Antibiotics,Antibiotic,True,,True,True
+med_166,Pheniramine,Avil Plus,Sanofi,PKM0000000166,Antihistamines,Antihistamine,False,spring,False,False
+med_167,Glimepiride,Amaryl XR,Sanofi,PKM0000000167,Antidiabetics,Antidiabetic,True,,True,True
+med_168,Nifedipine,Adalat XR,Bayer,PKM0000000168,Antihypertensives,Antihypertensive,True,,True,True
+med_169,Ibuprofen,Brufen XR,Abbott,PKM0000000169,Analgesics,NSAID/Analgesic,False,,True,False
+med_170,Pheniramine,Avil SR,Sanofi,PKM0000000170,Antihistamines,Antihistamine,False,spring,False,False
+med_171,Nifedipine,Adalat Plus,Bayer,PKM0000000171,Antihypertensives,Antihypertensive,True,,True,True
+med_172,Salbutamol,Ventolin Forte,GSK,PKM0000000172,Respiratory,Respiratory,True,winter,True,True
+med_173,Azithromycin,Zithromax Forte,Pfizer,PKM0000000173,Antibiotics,Antibiotic,True,,True,True
+med_174,Cetirizine,Zyrtec XR,UCB,PKM0000000174,Antihistamines,Antihistamine,False,spring,True,False
+med_175,Vitamin B Complex,Neurobion Forte,Merck,PKM0000000175,Vitamins,Vitamin/Supplement,False,,True,False
+med_176,Glimepiride,Amaryl Plus,Sanofi,PKM0000000176,Antidiabetics,Antidiabetic,True,,True,True
+med_177,Cetirizine,Cetrizet Plus,UCB,PKM0000000177,Antihistamines,Antihistamine,False,spring,True,False
+med_178,Vitamin B Complex,Neurobion SR,Merck,PKM0000000178,Vitamins,Vitamin/Supplement,False,,True,False
+med_179,Nifedipine,Adalat Plus,Bayer,PKM0000000179,Antihypertensives,Antihypertensive,True,,True,True
+med_180,Metronidazole,Flagyl SR,Sanofi,PKM0000000180,Antibiotics,Antibiotic,True,,True,True
+med_181,Domperidone,Motilium Forte,Janssen,PKM0000000181,Gastrointestinal,Gastrointestinal,False,,True,False
+med_182,Metformin,Glucophage Forte,Merck,PKM0000000182,Antidiabetics,Antidiabetic,True,,True,True
+med_183,Omeprazole,Risek Forte,Getz Pharma,PKM0000000183,Gastrointestinal,Gastrointestinal,True,,True,True
+med_184,Salbutamol,Ventolin Forte,GSK,PKM0000000184,Respiratory,Respiratory,True,winter,True,True
+med_185,Amlodipine,Norvasc SR,Pfizer,PKM0000000185,Antihypertensives,Antihypertensive,True,,True,True
+med_186,Diphenhydramine,Benadryl Plus,Johnson & Johnson,PKM0000000186,Respiratory,Respiratory,False,winter,True,False
+med_187,Diclofenac,Voltaren Plus,Novartis,PKM0000000187,Analgesics,NSAID/Analgesic,False,,True,False
+med_188,Salbutamol,Ventolin SR,GSK,PKM0000000188,Respiratory,Respiratory,True,winter,True,True
+med_189,Gliclazide,Diamicron Forte,Servier,PKM0000000189,Antidiabetics,Antidiabetic,True,,True,True
+med_190,Metformin,Glucophage XR,Merck,PKM0000000190,Antidiabetics,Antidiabetic,True,,True,True
+med_191,Nifedipine,Adalat SR,Bayer,PKM0000000191,Antihypertensives,Antihypertensive,True,,True,True
+med_192,Metronidazole,Flagyl XR,Sanofi,PKM0000000192,Antibiotics,Antibiotic,True,,True,True
+med_193,Pheniramine,Avil Forte,Sanofi,PKM0000000193,Antihistamines,Antihistamine,False,spring,False,False
+med_194,Ciprofloxacin,Ciproxin Plus,Bayer,PKM0000000194,Antibiotics,Antibiotic,True,,True,True
+med_195,Amoxicillin + Clavulanic Acid,Augmentin Forte,GSK,PKM0000000195,Antibiotics,Antibiotic,True,,True,True
+med_196,Domperidone,Motilium XR,Janssen,PKM0000000196,Gastrointestinal,Gastrointestinal,False,,True,False
+med_197,Paracetamol,Disprol Plus,Reckitt Benckiser,PKM0000000197,Analgesics,NSAID/Analgesic,False,,True,False
+med_198,Metformin,Glucophage Plus,Merck,PKM0000000198,Antidiabetics,Antidiabetic,True,,True,True
+med_199,Multivitamin,Becosules Forte,Pfizer,PKM0000000199,Vitamins,Vitamin/Supplement,False,,True,False
+med_200,Mefenamic Acid,Ponstan Plus,Pfizer,PKM0000000200,Analgesics,NSAID/Analgesic,False,,False,False
+med_201,Azithromycin,Zithromax XR,Pfizer,PKM0000000201,Antibiotics,Antibiotic,True,,True,True
+med_202,Cetirizine,Cetrizet SR,UCB,PKM0000000202,Antihistamines,Antihistamine,False,spring,True,False
+med_203,Azithromycin,Zithromax XR,Pfizer,PKM0000000203,Antibiotics,Antibiotic,True,,True,True
+med_204,Ibuprofen,Brufen XR,Abbott,PKM0000000204,Analgesics,NSAID/Analgesic,False,,True,False
+med_205,Amoxicillin + Clavulanic Acid,Augmentin Forte,GSK,PKM0000000205,Antibiotics,Antibiotic,True,,True,True
+med_206,Esomeprazole,Nexium SR,AstraZeneca,PKM0000000206,Gastrointestinal,Gastrointestinal,True,,True,True
+med_207,Domperidone,Motilium XR,Janssen,PKM0000000207,Gastrointestinal,Gastrointestinal,False,,True,False
+med_208,Aspirin,Disprin Plus,Reckitt Benckiser,PKM0000000208,Analgesics,NSAID/Analgesic,False,,True,False
+med_209,Fluticasone + Salmeterol,Seretide Plus,GSK,PKM0000000209,Respiratory,Respiratory,True,winter,False,True
+med_210,Salbutamol,Ventolin XR,GSK,PKM0000000210,Respiratory,Respiratory,True,winter,True,True
+med_211,Bisoprolol,Concor Plus,Merck,PKM0000000211,Antihypertensives,Antihypertensive,True,,True,True
+med_212,Amoxicillin,Amoxil Forte,GSK,PKM0000000212,Antibiotics,Antibiotic,True,,True,True
+med_213,Iron + Folic Acid,Fefol Forte,GSK,PKM0000000213,Vitamins,Vitamin/Supplement,False,,True,False
+med_214,Mefenamic Acid,Ponstan Plus,Pfizer,PKM0000000214,Analgesics,NSAID/Analgesic,False,,False,False
+med_215,Amoxicillin,Amoxil Forte,GSK,PKM0000000215,Antibiotics,Antibiotic,True,,True,True
+med_216,Ibuprofen,Brufen Forte,Abbott,PKM0000000216,Analgesics,NSAID/Analgesic,False,,True,False
+med_217,Omeprazole,Risek XR,Getz Pharma,PKM0000000217,Gastrointestinal,Gastrointestinal,True,,True,True
+med_218,Amoxicillin + Clavulanic Acid,Augmentin Forte,GSK,PKM0000000218,Antibiotics,Antibiotic,True,,True,True
+med_219,Aspirin,Disprin XR,Reckitt Benckiser,PKM0000000219,Analgesics,NSAID/Analgesic,False,,True,False
+med_220,Amoxicillin,Amoxil Forte,GSK,PKM0000000220,Antibiotics,Antibiotic,True,,True,True
+med_221,Azithromycin,Zithromax XR,Pfizer,PKM0000000221,Antibiotics,Antibiotic,True,,True,True
+med_222,Multivitamin,Becosules SR,Pfizer,PKM0000000222,Vitamins,Vitamin/Supplement,False,,True,False
+med_223,Vitamin B Complex,Neurobion XR,Merck,PKM0000000223,Vitamins,Vitamin/Supplement,False,,True,False
+med_224,Nifedipine,Adalat SR,Bayer,PKM0000000224,Antihypertensives,Antihypertensive,True,,True,True
+med_225,Bisoprolol,Concor XR,Merck,PKM0000000225,Antihypertensives,Antihypertensive,True,,True,True
+med_226,Omeprazole,Risek Plus,Getz Pharma,PKM0000000226,Gastrointestinal,Gastrointestinal,True,,True,True
+med_227,Metformin,Glucophage XR,Merck,PKM0000000227,Antidiabetics,Antidiabetic,True,,True,True
+med_228,Omeprazole,Risek Plus,Getz Pharma,PKM0000000228,Gastrointestinal,Gastrointestinal,True,,True,True
+med_229,Aspirin,Disprin Plus,Reckitt Benckiser,PKM0000000229,Analgesics,NSAID/Analgesic,False,,True,False
+med_230,Amlodipine,Norvasc XR,Pfizer,PKM0000000230,Antihypertensives,Antihypertensive,True,,True,True
+med_231,Azithromycin,Zithromax XR,Pfizer,PKM0000000231,Antibiotics,Antibiotic,True,,True,True
+med_232,Fluticasone + Salmeterol,Seretide Plus,GSK,PKM0000000232,Respiratory,Respiratory,True,winter,False,True
+med_233,Paracetamol,Panadol Forte,GSK,PKM0000000233,Analgesics,NSAID/Analgesic,False,,True,False
+med_234,Amlodipine,Norvasc XR,Pfizer,PKM0000000234,Antihypertensives,Antihypertensive,True,,True,True
+med_235,Bisoprolol,Concor XR,Merck,PKM0000000235,Antihypertensives,Antihypertensive,True,,True,True
+med_236,Amlodipine,Norvasc Plus,Pfizer,PKM0000000236,Antihypertensives,Antihypertensive,True,,True,True
+med_237,Diclofenac,Voltaren SR,Novartis,PKM0000000237,Analgesics,NSAID/Analgesic,False,,True,False
+med_238,Nifedipine,Adalat Forte,Bayer,PKM0000000238,Antihypertensives,Antihypertensive,True,,True,True
+med_239,Diclofenac,Voltaren SR,Novartis,PKM0000000239,Analgesics,NSAID/Analgesic,False,,True,False
+med_240,Glimepiride,Amaryl Plus,Sanofi,PKM0000000240,Antidiabetics,Antidiabetic,True,,True,True
+med_241,Diclofenac,Voltaren XR,Novartis,PKM0000000241,Analgesics,NSAID/Analgesic,False,,True,False
+med_242,Diclofenac,Voltaren Plus,Novartis,PKM0000000242,Analgesics,NSAID/Analgesic,False,,True,False
+med_243,Bisoprolol,Concor Forte,Merck,PKM0000000243,Antihypertensives,Antihypertensive,True,,True,True
+med_244,Gliclazide,Diamicron Plus,Servier,PKM0000000244,Antidiabetics,Antidiabetic,True,,True,True
+med_245,Pheniramine,Avil Plus,Sanofi,PKM0000000245,Antihistamines,Antihistamine,False,spring,False,False
+med_246,Glimepiride,Amaryl Forte,Sanofi,PKM0000000246,Antidiabetics,Antidiabetic,True,,True,True
+med_247,Paracetamol,Disprol SR,Reckitt Benckiser,PKM0000000247,Analgesics,NSAID/Analgesic,False,,True,False
+med_248,Paracetamol,Panadol Forte,GSK,PKM0000000248,Analgesics,NSAID/Analgesic,False,,True,False
+med_249,Esomeprazole,Nexium Forte,AstraZeneca,PKM0000000249,Gastrointestinal,Gastrointestinal,True,,True,True
+med_250,Gliclazide,Diamicron Forte,Servier,PKM0000000250,Antidiabetics,Antidiabetic,True,,True,True
+med_251,Cetirizine,Cetrizet XR,UCB,PKM0000000251,Antihistamines,Antihistamine,False,spring,True,False
+med_252,Iron + Folic Acid,Fefol Plus,GSK,PKM0000000252,Vitamins,Vitamin/Supplement,False,,True,False
+med_253,Paracetamol,Panadol SR,GSK,PKM0000000253,Analgesics,NSAID/Analgesic,False,,True,False
+med_254,Domperidone,Motilium Plus,Janssen,PKM0000000254,Gastrointestinal,Gastrointestinal,False,,True,False
+med_255,Diclofenac,Voltaren XR,Novartis,PKM0000000255,Analgesics,NSAID/Analgesic,False,,True,False
+med_256,Salbutamol,Ventolin XR,GSK,PKM0000000256,Respiratory,Respiratory,True,winter,True,True
+med_257,Domperidone,Motilium Forte,Janssen,PKM0000000257,Gastrointestinal,Gastrointestinal,False,,True,False
+med_258,Diclofenac,Cataflam XR,Novartis,PKM0000000258,Analgesics,NSAID/Analgesic,False,,True,False
+med_259,Pheniramine,Avil XR,Sanofi,PKM0000000259,Antihistamines,Antihistamine,False,spring,False,False
+med_260,Cetirizine,Zyrtec Forte,UCB,PKM0000000260,Antihistamines,Antihistamine,False,spring,True,False
+med_261,Nifedipine,Adalat Plus,Bayer,PKM0000000261,Antihypertensives,Antihypertensive,True,,True,True
+med_262,Pheniramine,Avil XR,Sanofi,PKM0000000262,Antihistamines,Antihistamine,False,spring,False,False
+med_263,Cetirizine,Cetrizet Plus,UCB,PKM0000000263,Antihistamines,Antihistamine,False,spring,True,False
+med_264,Paracetamol,Disprol Plus,Reckitt Benckiser,PKM0000000264,Analgesics,NSAID/Analgesic,False,,True,False
+med_265,Salbutamol,Ventolin Plus,GSK,PKM0000000265,Respiratory,Respiratory,True,winter,True,True
+med_266,Glimepiride,Amaryl SR,Sanofi,PKM0000000266,Antidiabetics,Antidiabetic,True,,True,True
+med_267,Bisoprolol,Concor Forte,Merck,PKM0000000267,Antihypertensives,Antihypertensive,True,,True,True
+med_268,Domperidone,Motilium Forte,Janssen,PKM0000000268,Gastrointestinal,Gastrointestinal,False,,True,False
+med_269,Paracetamol,Panadol XR,GSK,PKM0000000269,Analgesics,NSAID/Analgesic,False,,True,False
+med_270,Pheniramine,Avil Plus,Sanofi,PKM0000000270,Antihistamines,Antihistamine,False,spring,False,False
+med_271,Salbutamol,Ventolin SR,GSK,PKM0000000271,Respiratory,Respiratory,True,winter,True,True
+med_272,Metronidazole,Flagyl SR,Sanofi,PKM0000000272,Antibiotics,Antibiotic,True,,True,True
+med_273,Diphenhydramine,Benadryl SR,Johnson & Johnson,PKM0000000273,Respiratory,Respiratory,False,winter,True,False
+med_274,Paracetamol,Disprol SR,Reckitt Benckiser,PKM0000000274,Analgesics,NSAID/Analgesic,False,,True,False
+med_275,Cetirizine,Zyrtec XR,UCB,PKM0000000275,Antihistamines,Antihistamine,False,spring,True,False
+med_276,Multivitamin,Becosules Forte,Pfizer,PKM0000000276,Vitamins,Vitamin/Supplement,False,,True,False
+med_277,Metronidazole,Flagyl Forte,Sanofi,PKM0000000277,Antibiotics,Antibiotic,True,,True,True
+med_278,Amoxicillin,Amoxil SR,GSK,PKM0000000278,Antibiotics,Antibiotic,True,,True,True
+med_279,Paracetamol,Panadol XR,GSK,PKM0000000279,Analgesics,NSAID/Analgesic,False,,True,False
+med_280,Ibuprofen,Brufen Forte,Abbott,PKM0000000280,Analgesics,NSAID/Analgesic,False,,True,False
+med_281,Metformin,Glucophage XR,Merck,PKM0000000281,Antidiabetics,Antidiabetic,True,,True,True
+med_282,Fluticasone + Salmeterol,Seretide SR,GSK,PKM0000000282,Respiratory,Respiratory,True,winter,False,True
+med_283,Metformin,Glucophage SR,Merck,PKM0000000283,Antidiabetics,Antidiabetic,True,,True,True
+med_284,Pheniramine,Avil SR,Sanofi,PKM0000000284,Antihistamines,Antihistamine,False,spring,False,False
+med_285,Domperidone,Motilium Forte,Janssen,PKM0000000285,Gastrointestinal,Gastrointestinal,False,,True,False
+med_286,Fluticasone + Salmeterol,Seretide SR,GSK,PKM0000000286,Respiratory,Respiratory,True,winter,False,True
+med_287,Vitamin B Complex,Neurobion XR,Merck,PKM0000000287,Vitamins,Vitamin/Supplement,False,,True,False
+med_288,Gliclazide,Diamicron Plus,Servier,PKM0000000288,Antidiabetics,Antidiabetic,True,,True,True
+med_289,Pheniramine,Avil SR,Sanofi,PKM0000000289,Antihistamines,Antihistamine,False,spring,False,False
+med_290,Cetirizine,Cetrizet SR,UCB,PKM0000000290,Antihistamines,Antihistamine,False,spring,True,False
+med_291,Salbutamol,Ventolin XR,GSK,PKM0000000291,Respiratory,Respiratory,True,winter,True,True
+med_292,Azithromycin,Zithromax Forte,Pfizer,PKM0000000292,Antibiotics,Antibiotic,True,,True,True
+med_293,Ibuprofen,Brufen Forte,Abbott,PKM0000000293,Analgesics,NSAID/Analgesic,False,,True,False
+med_294,Salbutamol,Ventolin Forte,GSK,PKM0000000294,Respiratory,Respiratory,True,winter,True,True
+med_295,Multivitamin,Becosules SR,Pfizer,PKM0000000295,Vitamins,Vitamin/Supplement,False,,True,False
+med_296,Multivitamin,Becosules Plus,Pfizer,PKM0000000296,Vitamins,Vitamin/Supplement,False,,True,False
+med_297,Diclofenac,Voltaren Forte,Novartis,PKM0000000297,Analgesics,NSAID/Analgesic,False,,True,False
+med_298,Diclofenac,Cataflam Plus,Novartis,PKM0000000298,Analgesics,NSAID/Analgesic,False,,True,False
+med_299,Pheniramine,Avil Plus,Sanofi,PKM0000000299,Antihistamines,Antihistamine,False,spring,False,False
+med_300,Cetirizine,Zyrtec SR,UCB,PKM0000000300,Antihistamines,Antihistamine,False,spring,True,False
+med_301,Diphenhydramine,Benadryl Forte,Johnson & Johnson,PKM0000000301,Respiratory,Respiratory,False,winter,True,False
+med_302,Esomeprazole,Nexium Forte,AstraZeneca,PKM0000000302,Gastrointestinal,Gastrointestinal,True,,True,True
+med_303,Diclofenac,Voltaren SR,Novartis,PKM0000000303,Analgesics,NSAID/Analgesic,False,,True,False
+med_304,Bisoprolol,Concor SR,Merck,PKM0000000304,Antihypertensives,Antihypertensive,True,,True,True
+med_305,Diclofenac,Cataflam Plus,Novartis,PKM0000000305,Analgesics,NSAID/Analgesic,False,,True,False
+med_306,Esomeprazole,Nexium SR,AstraZeneca,PKM0000000306,Gastrointestinal,Gastrointestinal,True,,True,True
+med_307,Amoxicillin,Amoxil XR,GSK,PKM0000000307,Antibiotics,Antibiotic,True,,True,True
+med_308,Diphenhydramine,Benadryl SR,Johnson & Johnson,PKM0000000308,Respiratory,Respiratory,False,winter,True,False
+med_309,Mefenamic Acid,Ponstan SR,Pfizer,PKM0000000309,Analgesics,NSAID/Analgesic,False,,False,False
+med_310,Amlodipine,Norvasc XR,Pfizer,PKM0000000310,Antihypertensives,Antihypertensive,True,,True,True
+med_311,Paracetamol,Disprol SR,Reckitt Benckiser,PKM0000000311,Analgesics,NSAID/Analgesic,False,,True,False
+med_312,Ibuprofen,Brufen Forte,Abbott,PKM0000000312,Analgesics,NSAID/Analgesic,False,,True,False
+med_313,Paracetamol,Panadol Forte,GSK,PKM0000000313,Analgesics,NSAID/Analgesic,False,,True,False
+med_314,Nifedipine,Adalat Plus,Bayer,PKM0000000314,Antihypertensives,Antihypertensive,True,,True,True
+med_315,Pheniramine,Avil SR,Sanofi,PKM0000000315,Antihistamines,Antihistamine,False,spring,False,False
+med_316,Gliclazide,Diamicron Plus,Servier,PKM0000000316,Antidiabetics,Antidiabetic,True,,True,True
+med_317,Paracetamol,Disprol SR,Reckitt Benckiser,PKM0000000317,Analgesics,NSAID/Analgesic,False,,True,False
+med_318,Cetirizine,Zyrtec Forte,UCB,PKM0000000318,Antihistamines,Antihistamine,False,spring,True,False
+med_319,Aspirin,Disprin Forte,Reckitt Benckiser,PKM0000000319,Analgesics,NSAID/Analgesic,False,,True,False
+med_320,Paracetamol,Panadol XR,GSK,PKM0000000320,Analgesics,NSAID/Analgesic,False,,True,False
+med_321,Domperidone,Motilium Forte,Janssen,PKM0000000321,Gastrointestinal,Gastrointestinal,False,,True,False
+med_322,Diclofenac,Cataflam SR,Novartis,PKM0000000322,Analgesics,NSAID/Analgesic,False,,True,False
+med_323,Nifedipine,Adalat SR,Bayer,PKM0000000323,Antihypertensives,Antihypertensive,True,,True,True
+med_324,Iron + Folic Acid,Fefol Plus,GSK,PKM0000000324,Vitamins,Vitamin/Supplement,False,,True,False
+med_325,Esomeprazole,Nexium XR,AstraZeneca,PKM0000000325,Gastrointestinal,Gastrointestinal,True,,True,True
+med_326,Cetirizine,Zyrtec SR,UCB,PKM0000000326,Antihistamines,Antihistamine,False,spring,True,False
+med_327,Mefenamic Acid,Ponstan Plus,Pfizer,PKM0000000327,Analgesics,NSAID/Analgesic,False,,False,False
+med_328,Ciprofloxacin,Ciproxin XR,Bayer,PKM0000000328,Antibiotics,Antibiotic,True,,True,True
+med_329,Cetirizine,Cetrizet Plus,UCB,PKM0000000329,Antihistamines,Antihistamine,False,spring,True,False
+med_330,Amoxicillin,Amoxil SR,GSK,PKM0000000330,Antibiotics,Antibiotic,True,,True,True
+med_331,Mefenamic Acid,Ponstan SR,Pfizer,PKM0000000331,Analgesics,NSAID/Analgesic,False,,False,False
+med_332,Nifedipine,Adalat Forte,Bayer,PKM0000000332,Antihypertensives,Antihypertensive,True,,True,True
+med_333,Azithromycin,Zithromax SR,Pfizer,PKM0000000333,Antibiotics,Antibiotic,True,,True,True
+med_334,Bisoprolol,Concor SR,Merck,PKM0000000334,Antihypertensives,Antihypertensive,True,,True,True
+med_335,Gliclazide,Diamicron SR,Servier,PKM0000000335,Antidiabetics,Antidiabetic,True,,True,True
+med_336,Esomeprazole,Nexium SR,AstraZeneca,PKM0000000336,Gastrointestinal,Gastrointestinal,True,,True,True
+med_337,Domperidone,Motilium Plus,Janssen,PKM0000000337,Gastrointestinal,Gastrointestinal,False,,True,False
+med_338,Pheniramine,Avil Plus,Sanofi,PKM0000000338,Antihistamines,Antihistamine,False,spring,False,False
+med_339,Mefenamic Acid,Ponstan SR,Pfizer,PKM0000000339,Analgesics,NSAID/Analgesic,False,,False,False
+med_340,Omeprazole,Risek XR,Getz Pharma,PKM0000000340,Gastrointestinal,Gastrointestinal,True,,True,True
+med_341,Glimepiride,Amaryl SR,Sanofi,PKM0000000341,Antidiabetics,Antidiabetic,True,,True,True
+med_342,Nifedipine,Adalat SR,Bayer,PKM0000000342,Antihypertensives,Antihypertensive,True,,True,True
+med_343,Multivitamin,Becosules Forte,Pfizer,PKM0000000343,Vitamins,Vitamin/Supplement,False,,True,False
+med_344,Amlodipine,Norvasc Plus,Pfizer,PKM0000000344,Antihypertensives,Antihypertensive,True,,True,True
+med_345,Amoxicillin + Clavulanic Acid,Augmentin XR,GSK,PKM0000000345,Antibiotics,Antibiotic,True,,True,True
+med_346,Fluticasone + Salmeterol,Seretide Plus,GSK,PKM0000000346,Respiratory,Respiratory,True,winter,False,True
+med_347,Cetirizine,Zyrtec Plus,UCB,PKM0000000347,Antihistamines,Antihistamine,False,spring,True,False
+med_348,Domperidone,Motilium SR,Janssen,PKM0000000348,Gastrointestinal,Gastrointestinal,False,,True,False
+med_349,Cetirizine,Zyrtec Plus,UCB,PKM0000000349,Antihistamines,Antihistamine,False,spring,True,False
+med_350,Pheniramine,Avil Plus,Sanofi,PKM0000000350,Antihistamines,Antihistamine,False,spring,False,False
+med_351,Paracetamol,Panadol Forte,GSK,PKM0000000351,Analgesics,NSAID/Analgesic,False,,True,False
+med_352,Fluticasone + Salmeterol,Seretide SR,GSK,PKM0000000352,Respiratory,Respiratory,True,winter,False,True
+med_353,Diclofenac,Voltaren Forte,Novartis,PKM0000000353,Analgesics,NSAID/Analgesic,False,,True,False
+med_354,Domperidone,Motilium Forte,Janssen,PKM0000000354,Gastrointestinal,Gastrointestinal,False,,True,False
+med_355,Amoxicillin + Clavulanic Acid,Augmentin SR,GSK,PKM0000000355,Antibiotics,Antibiotic,True,,True,True
+med_356,Salbutamol,Ventolin Plus,GSK,PKM0000000356,Respiratory,Respiratory,True,winter,True,True
+med_357,Omeprazole,Risek XR,Getz Pharma,PKM0000000357,Gastrointestinal,Gastrointestinal,True,,True,True
+med_358,Salbutamol,Ventolin XR,GSK,PKM0000000358,Respiratory,Respiratory,True,winter,True,True
+med_359,Metronidazole,Flagyl Plus,Sanofi,PKM0000000359,Antibiotics,Antibiotic,True,,True,True
+med_360,Diclofenac,Voltaren Forte,Novartis,PKM0000000360,Analgesics,NSAID/Analgesic,False,,True,False
+med_361,Bisoprolol,Concor Forte,Merck,PKM0000000361,Antihypertensives,Antihypertensive,True,,True,True
+med_362,Amlodipine,Norvasc Forte,Pfizer,PKM0000000362,Antihypertensives,Antihypertensive,True,,True,True
+med_363,Pheniramine,Avil SR,Sanofi,PKM0000000363,Antihistamines,Antihistamine,False,spring,False,False
+med_364,Amlodipine,Norvasc XR,Pfizer,PKM0000000364,Antihypertensives,Antihypertensive,True,,True,True
+med_365,Omeprazole,Risek XR,Getz Pharma,PKM0000000365,Gastrointestinal,Gastrointestinal,True,,True,True
+med_366,Aspirin,Disprin SR,Reckitt Benckiser,PKM0000000366,Analgesics,NSAID/Analgesic,False,,True,False
+med_367,Amlodipine,Norvasc Forte,Pfizer,PKM0000000367,Antihypertensives,Antihypertensive,True,,True,True
+med_368,Amlodipine,Norvasc SR,Pfizer,PKM0000000368,Antihypertensives,Antihypertensive,True,,True,True
+med_369,Paracetamol,Panadol SR,GSK,PKM0000000369,Analgesics,NSAID/Analgesic,False,,True,False
+med_370,Amoxicillin + Clavulanic Acid,Augmentin XR,GSK,PKM0000000370,Antibiotics,Antibiotic,True,,True,True
+med_371,Multivitamin,Becosules Plus,Pfizer,PKM0000000371,Vitamins,Vitamin/Supplement,False,,True,False
+med_372,Ibuprofen,Brufen Plus,Abbott,PKM0000000372,Analgesics,NSAID/Analgesic,False,,True,False
+med_373,Azithromycin,Zithromax Plus,Pfizer,PKM0000000373,Antibiotics,Antibiotic,True,,True,True
+med_374,Paracetamol,Disprol SR,Reckitt Benckiser,PKM0000000374,Analgesics,NSAID/Analgesic,False,,True,False
+med_375,Pheniramine,Avil XR,Sanofi,PKM0000000375,Antihistamines,Antihistamine,False,spring,False,False
+med_376,Ciprofloxacin,Ciproxin Plus,Bayer,PKM0000000376,Antibiotics,Antibiotic,True,,True,True
+med_377,Paracetamol,Panadol XR,GSK,PKM0000000377,Analgesics,NSAID/Analgesic,False,,True,False
+med_378,Aspirin,Disprin XR,Reckitt Benckiser,PKM0000000378,Analgesics,NSAID/Analgesic,False,,True,False
+med_379,Esomeprazole,Nexium SR,AstraZeneca,PKM0000000379,Gastrointestinal,Gastrointestinal,True,,True,True
+med_380,Metformin,Glucophage XR,Merck,PKM0000000380,Antidiabetics,Antidiabetic,True,,True,True
+med_381,Bisoprolol,Concor XR,Merck,PKM0000000381,Antihypertensives,Antihypertensive,True,,True,True
+med_382,Pheniramine,Avil Plus,Sanofi,PKM0000000382,Antihistamines,Antihistamine,False,spring,False,False
+med_383,Mefenamic Acid,Ponstan XR,Pfizer,PKM0000000383,Analgesics,NSAID/Analgesic,False,,False,False
+med_384,Paracetamol,Disprol Plus,Reckitt Benckiser,PKM0000000384,Analgesics,NSAID/Analgesic,False,,True,False
+med_385,Ibuprofen,Brufen XR,Abbott,PKM0000000385,Analgesics,NSAID/Analgesic,False,,True,False
+med_386,Metronidazole,Flagyl Forte,Sanofi,PKM0000000386,Antibiotics,Antibiotic,True,,True,True
+med_387,Diphenhydramine,Benadryl SR,Johnson & Johnson,PKM0000000387,Respiratory,Respiratory,False,winter,True,False
+med_388,Pheniramine,Avil Forte,Sanofi,PKM0000000388,Antihistamines,Antihistamine,False,spring,False,False
+med_389,Cetirizine,Cetrizet SR,UCB,PKM0000000389,Antihistamines,Antihistamine,False,spring,True,False
+med_390,Ciprofloxacin,Ciproxin Forte,Bayer,PKM0000000390,Antibiotics,Antibiotic,True,,True,True
+med_391,Amoxicillin,Amoxil SR,GSK,PKM0000000391,Antibiotics,Antibiotic,True,,True,True
+med_392,Cetirizine,Zyrtec SR,UCB,PKM0000000392,Antihistamines,Antihistamine,False,spring,True,False
+med_393,Omeprazole,Risek SR,Getz Pharma,PKM0000000393,Gastrointestinal,Gastrointestinal,True,,True,True
+med_394,Salbutamol,Ventolin Forte,GSK,PKM0000000394,Respiratory,Respiratory,True,winter,True,True
+med_395,Paracetamol,Panadol SR,GSK,PKM0000000395,Analgesics,NSAID/Analgesic,False,,True,False
+med_396,Amlodipine,Norvasc SR,Pfizer,PKM0000000396,Antihypertensives,Antihypertensive,True,,True,True
+med_397,Paracetamol,Disprol SR,Reckitt Benckiser,PKM0000000397,Analgesics,NSAID/Analgesic,False,,True,False
+med_398,Gliclazide,Diamicron SR,Servier,PKM0000000398,Antidiabetics,Antidiabetic,True,,True,True
+med_399,Amoxicillin + Clavulanic Acid,Augmentin Forte,GSK,PKM0000000399,Antibiotics,Antibiotic,True,,True,True
+med_400,Multivitamin,Becosules XR,Pfizer,PKM0000000400,Vitamins,Vitamin/Supplement,False,,True,False
+med_401,Ciprofloxacin,Ciproxin XR,Bayer,PKM0000000401,Antibiotics,Antibiotic,True,,True,True
+med_402,Glimepiride,Amaryl Plus,Sanofi,PKM0000000402,Antidiabetics,Antidiabetic,True,,True,True
+med_403,Ciprofloxacin,Ciproxin Forte,Bayer,PKM0000000403,Antibiotics,Antibiotic,True,,True,True
+med_404,Amlodipine,Norvasc XR,Pfizer,PKM0000000404,Antihypertensives,Antihypertensive,True,,True,True
+med_405,Paracetamol,Panadol Plus,GSK,PKM0000000405,Analgesics,NSAID/Analgesic,False,,True,False
+med_406,Vitamin B Complex,Neurobion XR,Merck,PKM0000000406,Vitamins,Vitamin/Supplement,False,,True,False
+med_407,Gliclazide,Diamicron SR,Servier,PKM0000000407,Antidiabetics,Antidiabetic,True,,True,True
+med_408,Vitamin B Complex,Neurobion SR,Merck,PKM0000000408,Vitamins,Vitamin/Supplement,False,,True,False
+med_409,Vitamin B Complex,Neurobion SR,Merck,PKM0000000409,Vitamins,Vitamin/Supplement,False,,True,False
+med_410,Cetirizine,Zyrtec XR,UCB,PKM0000000410,Antihistamines,Antihistamine,False,spring,True,False
+med_411,Ibuprofen,Brufen Forte,Abbott,PKM0000000411,Analgesics,NSAID/Analgesic,False,,True,False
+med_412,Amlodipine,Norvasc SR,Pfizer,PKM0000000412,Antihypertensives,Antihypertensive,True,,True,True
+med_413,Ibuprofen,Brufen Plus,Abbott,PKM0000000413,Analgesics,NSAID/Analgesic,False,,True,False
+med_414,Cetirizine,Cetrizet SR,UCB,PKM0000000414,Antihistamines,Antihistamine,False,spring,True,False
+med_415,Gliclazide,Diamicron Plus,Servier,PKM0000000415,Antidiabetics,Antidiabetic,True,,True,True
+med_416,Amlodipine,Norvasc Forte,Pfizer,PKM0000000416,Antihypertensives,Antihypertensive,True,,True,True
+med_417,Azithromycin,Zithromax Plus,Pfizer,PKM0000000417,Antibiotics,Antibiotic,True,,True,True
+med_418,Fluticasone + Salmeterol,Seretide Forte,GSK,PKM0000000418,Respiratory,Respiratory,True,winter,False,True
+med_419,Amoxicillin + Clavulanic Acid,Augmentin XR,GSK,PKM0000000419,Antibiotics,Antibiotic,True,,True,True
+med_420,Pheniramine,Avil Forte,Sanofi,PKM0000000420,Antihistamines,Antihistamine,False,spring,False,False
+med_421,Multivitamin,Becosules Plus,Pfizer,PKM0000000421,Vitamins,Vitamin/Supplement,False,,True,False
+med_422,Vitamin B Complex,Neurobion Plus,Merck,PKM0000000422,Vitamins,Vitamin/Supplement,False,,True,False
+med_423,Bisoprolol,Concor Forte,Merck,PKM0000000423,Antihypertensives,Antihypertensive,True,,True,True
+med_424,Nifedipine,Adalat SR,Bayer,PKM0000000424,Antihypertensives,Antihypertensive,True,,True,True
+med_425,Metformin,Glucophage Forte,Merck,PKM0000000425,Antidiabetics,Antidiabetic,True,,True,True
+med_426,Ibuprofen,Brufen Plus,Abbott,PKM0000000426,Analgesics,NSAID/Analgesic,False,,True,False
+med_427,Paracetamol,Disprol Plus,Reckitt Benckiser,PKM0000000427,Analgesics,NSAID/Analgesic,False,,True,False
+med_428,Cetirizine,Cetrizet Plus,UCB,PKM0000000428,Antihistamines,Antihistamine,False,spring,True,False
+med_429,Omeprazole,Risek SR,Getz Pharma,PKM0000000429,Gastrointestinal,Gastrointestinal,True,,True,True
+med_430,Multivitamin,Becosules Plus,Pfizer,PKM0000000430,Vitamins,Vitamin/Supplement,False,,True,False
+med_431,Diclofenac,Cataflam Plus,Novartis,PKM0000000431,Analgesics,NSAID/Analgesic,False,,True,False
+med_432,Ibuprofen,Brufen XR,Abbott,PKM0000000432,Analgesics,NSAID/Analgesic,False,,True,False
+med_433,Diclofenac,Cataflam XR,Novartis,PKM0000000433,Analgesics,NSAID/Analgesic,False,,True,False
+med_434,Domperidone,Motilium Forte,Janssen,PKM0000000434,Gastrointestinal,Gastrointestinal,False,,True,False
+med_435,Paracetamol,Panadol Plus,GSK,PKM0000000435,Analgesics,NSAID/Analgesic,False,,True,False
+med_436,Aspirin,Disprin Plus,Reckitt Benckiser,PKM0000000436,Analgesics,NSAID/Analgesic,False,,True,False
+med_437,Aspirin,Disprin SR,Reckitt Benckiser,PKM0000000437,Analgesics,NSAID/Analgesic,False,,True,False
+med_438,Pheniramine,Avil Plus,Sanofi,PKM0000000438,Antihistamines,Antihistamine,False,spring,False,False
+med_439,Nifedipine,Adalat SR,Bayer,PKM0000000439,Antihypertensives,Antihypertensive,True,,True,True
+med_440,Metformin,Glucophage Plus,Merck,PKM0000000440,Antidiabetics,Antidiabetic,True,,True,True
+med_441,Vitamin B Complex,Neurobion XR,Merck,PKM0000000441,Vitamins,Vitamin/Supplement,False,,True,False
+med_442,Azithromycin,Zithromax XR,Pfizer,PKM0000000442,Antibiotics,Antibiotic,True,,True,True
+med_443,Mefenamic Acid,Ponstan Forte,Pfizer,PKM0000000443,Analgesics,NSAID/Analgesic,False,,False,False
+med_444,Paracetamol,Disprol Plus,Reckitt Benckiser,PKM0000000444,Analgesics,NSAID/Analgesic,False,,True,False
+med_445,Metronidazole,Flagyl SR,Sanofi,PKM0000000445,Antibiotics,Antibiotic,True,,True,True
+med_446,Vitamin B Complex,Neurobion Forte,Merck,PKM0000000446,Vitamins,Vitamin/Supplement,False,,True,False
+med_447,Amoxicillin,Amoxil SR,GSK,PKM0000000447,Antibiotics,Antibiotic,True,,True,True
+med_448,Metronidazole,Flagyl Plus,Sanofi,PKM0000000448,Antibiotics,Antibiotic,True,,True,True
+med_449,Ciprofloxacin,Ciproxin Forte,Bayer,PKM0000000449,Antibiotics,Antibiotic,True,,True,True
+med_450,Bisoprolol,Concor XR,Merck,PKM0000000450,Antihypertensives,Antihypertensive,True,,True,True
+med_451,Pheniramine,Avil Plus,Sanofi,PKM0000000451,Antihistamines,Antihistamine,False,spring,False,False
+med_452,Nifedipine,Adalat Forte,Bayer,PKM0000000452,Antihypertensives,Antihypertensive,True,,True,True
+med_453,Metronidazole,Flagyl Forte,Sanofi,PKM0000000453,Antibiotics,Antibiotic,True,,True,True
+med_454,Pheniramine,Avil SR,Sanofi,PKM0000000454,Antihistamines,Antihistamine,False,spring,False,False
+med_455,Amlodipine,Norvasc Forte,Pfizer,PKM0000000455,Antihypertensives,Antihypertensive,True,,True,True
+med_456,Amoxicillin,Amoxil Plus,GSK,PKM0000000456,Antibiotics,Antibiotic,True,,True,True
+med_457,Cetirizine,Cetrizet SR,UCB,PKM0000000457,Antihistamines,Antihistamine,False,spring,True,False
+med_458,Nifedipine,Adalat XR,Bayer,PKM0000000458,Antihypertensives,Antihypertensive,True,,True,True
+med_459,Cetirizine,Cetrizet Forte,UCB,PKM0000000459,Antihistamines,Antihistamine,False,spring,True,False
+med_460,Esomeprazole,Nexium SR,AstraZeneca,PKM0000000460,Gastrointestinal,Gastrointestinal,True,,True,True
+med_461,Multivitamin,Becosules Forte,Pfizer,PKM0000000461,Vitamins,Vitamin/Supplement,False,,True,False
+med_462,Amlodipine,Norvasc SR,Pfizer,PKM0000000462,Antihypertensives,Antihypertensive,True,,True,True
+med_463,Domperidone,Motilium SR,Janssen,PKM0000000463,Gastrointestinal,Gastrointestinal,False,,True,False
+med_464,Ciprofloxacin,Ciproxin SR,Bayer,PKM0000000464,Antibiotics,Antibiotic,True,,True,True
+med_465,Amoxicillin + Clavulanic Acid,Augmentin Forte,GSK,PKM0000000465,Antibiotics,Antibiotic,True,,True,True
+med_466,Paracetamol,Panadol XR,GSK,PKM0000000466,Analgesics,NSAID/Analgesic,False,,True,False
+med_467,Amlodipine,Norvasc Forte,Pfizer,PKM0000000467,Antihypertensives,Antihypertensive,True,,True,True
+med_468,Domperidone,Motilium XR,Janssen,PKM0000000468,Gastrointestinal,Gastrointestinal,False,,True,False
+med_469,Pheniramine,Avil Plus,Sanofi,PKM0000000469,Antihistamines,Antihistamine,False,spring,False,False
+med_470,Salbutamol,Ventolin XR,GSK,PKM0000000470,Respiratory,Respiratory,True,winter,True,True
+med_471,Omeprazole,Risek SR,Getz Pharma,PKM0000000471,Gastrointestinal,Gastrointestinal,True,,True,True
+med_472,Pheniramine,Avil XR,Sanofi,PKM0000000472,Antihistamines,Antihistamine,False,spring,False,False
+med_473,Cetirizine,Zyrtec Forte,UCB,PKM0000000473,Antihistamines,Antihistamine,False,spring,True,False
+med_474,Azithromycin,Zithromax XR,Pfizer,PKM0000000474,Antibiotics,Antibiotic,True,,True,True
+med_475,Glimepiride,Amaryl Plus,Sanofi,PKM0000000475,Antidiabetics,Antidiabetic,True,,True,True
+med_476,Diphenhydramine,Benadryl SR,Johnson & Johnson,PKM0000000476,Respiratory,Respiratory,False,winter,True,False
+med_477,Amlodipine,Norvasc Plus,Pfizer,PKM0000000477,Antihypertensives,Antihypertensive,True,,True,True
+med_478,Nifedipine,Adalat XR,Bayer,PKM0000000478,Antihypertensives,Antihypertensive,True,,True,True
+med_479,Gliclazide,Diamicron Plus,Servier,PKM0000000479,Antidiabetics,Antidiabetic,True,,True,True
+med_480,Metformin,Glucophage XR,Merck,PKM0000000480,Antidiabetics,Antidiabetic,True,,True,True
+med_481,Ibuprofen,Brufen Plus,Abbott,PKM0000000481,Analgesics,NSAID/Analgesic,False,,True,False
+med_482,Metformin,Glucophage SR,Merck,PKM0000000482,Antidiabetics,Antidiabetic,True,,True,True
+med_483,Iron + Folic Acid,Fefol SR,GSK,PKM0000000483,Vitamins,Vitamin/Supplement,False,,True,False
+med_484,Azithromycin,Zithromax XR,Pfizer,PKM0000000484,Antibiotics,Antibiotic,True,,True,True
+med_485,Nifedipine,Adalat SR,Bayer,PKM0000000485,Antihypertensives,Antihypertensive,True,,True,True
+med_486,Paracetamol,Disprol XR,Reckitt Benckiser,PKM0000000486,Analgesics,NSAID/Analgesic,False,,True,False
+med_487,Bisoprolol,Concor XR,Merck,PKM0000000487,Antihypertensives,Antihypertensive,True,,True,True
+med_488,Paracetamol,Panadol Forte,GSK,PKM0000000488,Analgesics,NSAID/Analgesic,False,,True,False
+med_489,Fluticasone + Salmeterol,Seretide SR,GSK,PKM0000000489,Respiratory,Respiratory,True,winter,False,True
+med_490,Ibuprofen,Brufen XR,Abbott,PKM0000000490,Analgesics,NSAID/Analgesic,False,,True,False
+med_491,Esomeprazole,Nexium Plus,AstraZeneca,PKM0000000491,Gastrointestinal,Gastrointestinal,True,,True,True
+med_492,Fluticasone + Salmeterol,Seretide Forte,GSK,PKM0000000492,Respiratory,Respiratory,True,winter,False,True
+med_493,Bisoprolol,Concor Forte,Merck,PKM0000000493,Antihypertensives,Antihypertensive,True,,True,True
+med_494,Cetirizine,Cetrizet Plus,UCB,PKM0000000494,Antihistamines,Antihistamine,False,spring,True,False
+med_495,Ciprofloxacin,Ciproxin Forte,Bayer,PKM0000000495,Antibiotics,Antibiotic,True,,True,True
+med_496,Omeprazole,Risek SR,Getz Pharma,PKM0000000496,Gastrointestinal,Gastrointestinal,True,,True,True
+med_497,Diclofenac,Voltaren XR,Novartis,PKM0000000497,Analgesics,NSAID/Analgesic,False,,True,False
+med_498,Diclofenac,Cataflam XR,Novartis,PKM0000000498,Analgesics,NSAID/Analgesic,False,,True,False
+med_499,Esomeprazole,Nexium Forte,AstraZeneca,PKM0000000499,Gastrointestinal,Gastrointestinal,True,,True,True
+med_500,Pheniramine,Avil Forte,Sanofi,PKM0000000500,Antihistamines,Antihistamine,False,spring,False,False
+med_501,Amoxicillin + Clavulanic Acid,Augmentin XR,GSK,PKM0000000501,Antibiotics,Antibiotic,True,,True,True
+med_502,Bisoprolol,Concor Forte,Merck,PKM0000000502,Antihypertensives,Antihypertensive,True,,True,True
+med_503,Domperidone,Motilium SR,Janssen,PKM0000000503,Gastrointestinal,Gastrointestinal,False,,True,False
+med_504,Vitamin B Complex,Neurobion Forte,Merck,PKM0000000504,Vitamins,Vitamin/Supplement,False,,True,False
+med_505,Amlodipine,Norvasc Forte,Pfizer,PKM0000000505,Antihypertensives,Antihypertensive,True,,True,True
+med_506,Paracetamol,Disprol XR,Reckitt Benckiser,PKM0000000506,Analgesics,NSAID/Analgesic,False,,True,False
+med_507,Metronidazole,Flagyl Forte,Sanofi,PKM0000000507,Antibiotics,Antibiotic,True,,True,True
+med_508,Diclofenac,Voltaren Plus,Novartis,PKM0000000508,Analgesics,NSAID/Analgesic,False,,True,False
+med_509,Salbutamol,Ventolin Plus,GSK,PKM0000000509,Respiratory,Respiratory,True,winter,True,True
+med_510,Azithromycin,Zithromax Plus,Pfizer,PKM0000000510,Antibiotics,Antibiotic,True,,True,True
+med_511,Nifedipine,Adalat XR,Bayer,PKM0000000511,Antihypertensives,Antihypertensive,True,,True,True
+med_512,Domperidone,Motilium Forte,Janssen,PKM0000000512,Gastrointestinal,Gastrointestinal,False,,True,False
+med_513,Diclofenac,Voltaren Plus,Novartis,PKM0000000513,Analgesics,NSAID/Analgesic,False,,True,False
+med_514,Amoxicillin,Amoxil Plus,GSK,PKM0000000514,Antibiotics,Antibiotic,True,,True,True
+med_515,Domperidone,Motilium XR,Janssen,PKM0000000515,Gastrointestinal,Gastrointestinal,False,,True,False
+med_516,Amlodipine,Norvasc Plus,Pfizer,PKM0000000516,Antihypertensives,Antihypertensive,True,,True,True
+med_517,Domperidone,Motilium SR,Janssen,PKM0000000517,Gastrointestinal,Gastrointestinal,False,,True,False
+med_518,Vitamin B Complex,Neurobion SR,Merck,PKM0000000518,Vitamins,Vitamin/Supplement,False,,True,False
+med_519,Nifedipine,Adalat SR,Bayer,PKM0000000519,Antihypertensives,Antihypertensive,True,,True,True
+med_520,Azithromycin,Zithromax Plus,Pfizer,PKM0000000520,Antibiotics,Antibiotic,True,,True,True
+med_521,Omeprazole,Risek XR,Getz Pharma,PKM0000000521,Gastrointestinal,Gastrointestinal,True,,True,True
+med_522,Bisoprolol,Concor Plus,Merck,PKM0000000522,Antihypertensives,Antihypertensive,True,,True,True
+med_523,Gliclazide,Diamicron XR,Servier,PKM0000000523,Antidiabetics,Antidiabetic,True,,True,True
+med_524,Gliclazide,Diamicron Plus,Servier,PKM0000000524,Antidiabetics,Antidiabetic,True,,True,True
+med_525,Diphenhydramine,Benadryl SR,Johnson & Johnson,PKM0000000525,Respiratory,Respiratory,False,winter,True,False
+med_526,Metronidazole,Flagyl XR,Sanofi,PKM0000000526,Antibiotics,Antibiotic,True,,True,True
+med_527,Gliclazide,Diamicron XR,Servier,PKM0000000527,Antidiabetics,Antidiabetic,True,,True,True
+med_528,Multivitamin,Becosules SR,Pfizer,PKM0000000528,Vitamins,Vitamin/Supplement,False,,True,False
+med_529,Paracetamol,Panadol Plus,GSK,PKM0000000529,Analgesics,NSAID/Analgesic,False,,True,False
+med_530,Amoxicillin + Clavulanic Acid,Augmentin Forte,GSK,PKM0000000530,Antibiotics,Antibiotic,True,,True,True
+med_531,Nifedipine,Adalat XR,Bayer,PKM0000000531,Antihypertensives,Antihypertensive,True,,True,True
+med_532,Omeprazole,Risek XR,Getz Pharma,PKM0000000532,Gastrointestinal,Gastrointestinal,True,,True,True
+med_533,Glimepiride,Amaryl XR,Sanofi,PKM0000000533,Antidiabetics,Antidiabetic,True,,True,True
+med_534,Omeprazole,Risek Forte,Getz Pharma,PKM0000000534,Gastrointestinal,Gastrointestinal,True,,True,True
+med_535,Ibuprofen,Brufen Forte,Abbott,PKM0000000535,Analgesics,NSAID/Analgesic,False,,True,False
+med_536,Ciprofloxacin,Ciproxin SR,Bayer,PKM0000000536,Antibiotics,Antibiotic,True,,True,True
+med_537,Paracetamol,Panadol XR,GSK,PKM0000000537,Analgesics,NSAID/Analgesic,False,,True,False
+med_538,Ciprofloxacin,Ciproxin Plus,Bayer,PKM0000000538,Antibiotics,Antibiotic,True,,True,True
+med_539,Domperidone,Motilium XR,Janssen,PKM0000000539,Gastrointestinal,Gastrointestinal,False,,True,False
+med_540,Aspirin,Disprin XR,Reckitt Benckiser,PKM0000000540,Analgesics,NSAID/Analgesic,False,,True,False
+med_541,Metformin,Glucophage SR,Merck,PKM0000000541,Antidiabetics,Antidiabetic,True,,True,True
+med_542,Metronidazole,Flagyl XR,Sanofi,PKM0000000542,Antibiotics,Antibiotic,True,,True,True
+med_543,Diclofenac,Voltaren Forte,Novartis,PKM0000000543,Analgesics,NSAID/Analgesic,False,,True,False
+med_544,Diclofenac,Voltaren SR,Novartis,PKM0000000544,Analgesics,NSAID/Analgesic,False,,True,False
+med_545,Azithromycin,Zithromax Plus,Pfizer,PKM0000000545,Antibiotics,Antibiotic,True,,True,True
+med_546,Vitamin B Complex,Neurobion XR,Merck,PKM0000000546,Vitamins,Vitamin/Supplement,False,,True,False
+med_547,Metformin,Glucophage XR,Merck,PKM0000000547,Antidiabetics,Antidiabetic,True,,True,True
+med_548,Diphenhydramine,Benadryl Forte,Johnson & Johnson,PKM0000000548,Respiratory,Respiratory,False,winter,True,False
+med_549,Salbutamol,Ventolin XR,GSK,PKM0000000549,Respiratory,Respiratory,True,winter,True,True
+med_550,Omeprazole,Risek SR,Getz Pharma,PKM0000000550,Gastrointestinal,Gastrointestinal,True,,True,True
+med_551,Metformin,Glucophage Forte,Merck,PKM0000000551,Antidiabetics,Antidiabetic,True,,True,True
+med_552,Diclofenac,Cataflam SR,Novartis,PKM0000000552,Analgesics,NSAID/Analgesic,False,,True,False
+med_553,Paracetamol,Panadol Forte,GSK,PKM0000000553,Analgesics,NSAID/Analgesic,False,,True,False
+med_554,Diphenhydramine,Benadryl Forte,Johnson & Johnson,PKM0000000554,Respiratory,Respiratory,False,winter,True,False
+med_555,Pheniramine,Avil XR,Sanofi,PKM0000000555,Antihistamines,Antihistamine,False,spring,False,False
+med_556,Vitamin B Complex,Neurobion SR,Merck,PKM0000000556,Vitamins,Vitamin/Supplement,False,,True,False
+med_557,Metronidazole,Flagyl SR,Sanofi,PKM0000000557,Antibiotics,Antibiotic,True,,True,True
+med_558,Aspirin,Disprin Forte,Reckitt Benckiser,PKM0000000558,Analgesics,NSAID/Analgesic,False,,True,False
+med_559,Metronidazole,Flagyl Forte,Sanofi,PKM0000000559,Antibiotics,Antibiotic,True,,True,True
+med_560,Mefenamic Acid,Ponstan SR,Pfizer,PKM0000000560,Analgesics,NSAID/Analgesic,False,,False,False
+med_561,Multivitamin,Becosules Plus,Pfizer,PKM0000000561,Vitamins,Vitamin/Supplement,False,,True,False
+med_562,Azithromycin,Zithromax SR,Pfizer,PKM0000000562,Antibiotics,Antibiotic,True,,True,True
+med_563,Bisoprolol,Concor Forte,Merck,PKM0000000563,Antihypertensives,Antihypertensive,True,,True,True
+med_564,Cetirizine,Cetrizet Forte,UCB,PKM0000000564,Antihistamines,Antihistamine,False,spring,True,False
+med_565,Mefenamic Acid,Ponstan Plus,Pfizer,PKM0000000565,Analgesics,NSAID/Analgesic,False,,False,False
+med_566,Azithromycin,Zithromax SR,Pfizer,PKM0000000566,Antibiotics,Antibiotic,True,,True,True
+med_567,Nifedipine,Adalat Forte,Bayer,PKM0000000567,Antihypertensives,Antihypertensive,True,,True,True
+med_568,Diphenhydramine,Benadryl Plus,Johnson & Johnson,PKM0000000568,Respiratory,Respiratory,False,winter,True,False
+med_569,Diclofenac,Voltaren Forte,Novartis,PKM0000000569,Analgesics,NSAID/Analgesic,False,,True,False
+med_570,Amlodipine,Norvasc Forte,Pfizer,PKM0000000570,Antihypertensives,Antihypertensive,True,,True,True
+med_571,Cetirizine,Cetrizet Plus,UCB,PKM0000000571,Antihistamines,Antihistamine,False,spring,True,False
+med_572,Amlodipine,Norvasc XR,Pfizer,PKM0000000572,Antihypertensives,Antihypertensive,True,,True,True
+med_573,Bisoprolol,Concor XR,Merck,PKM0000000573,Antihypertensives,Antihypertensive,True,,True,True
+med_574,Fluticasone + Salmeterol,Seretide XR,GSK,PKM0000000574,Respiratory,Respiratory,True,winter,False,True
+med_575,Glimepiride,Amaryl XR,Sanofi,PKM0000000575,Antidiabetics,Antidiabetic,True,,True,True
+med_576,Amoxicillin,Amoxil Forte,GSK,PKM0000000576,Antibiotics,Antibiotic,True,,True,True
+med_577,Aspirin,Disprin SR,Reckitt Benckiser,PKM0000000577,Analgesics,NSAID/Analgesic,False,,True,False
+med_578,Vitamin B Complex,Neurobion Plus,Merck,PKM0000000578,Vitamins,Vitamin/Supplement,False,,True,False
+med_579,Amoxicillin,Amoxil Forte,GSK,PKM0000000579,Antibiotics,Antibiotic,True,,True,True
+med_580,Paracetamol,Panadol SR,GSK,PKM0000000580,Analgesics,NSAID/Analgesic,False,,True,False
+med_581,Pheniramine,Avil XR,Sanofi,PKM0000000581,Antihistamines,Antihistamine,False,spring,False,False
+med_582,Mefenamic Acid,Ponstan Forte,Pfizer,PKM0000000582,Analgesics,NSAID/Analgesic,False,,False,False
+med_583,Amoxicillin + Clavulanic Acid,Augmentin Forte,GSK,PKM0000000583,Antibiotics,Antibiotic,True,,True,True
+med_584,Paracetamol,Panadol Plus,GSK,PKM0000000584,Analgesics,NSAID/Analgesic,False,,True,False
+med_585,Bisoprolol,Concor Forte,Merck,PKM0000000585,Antihypertensives,Antihypertensive,True,,True,True
+med_586,Cetirizine,Zyrtec Plus,UCB,PKM0000000586,Antihistamines,Antihistamine,False,spring,True,False
+med_587,Glimepiride,Amaryl XR,Sanofi,PKM0000000587,Antidiabetics,Antidiabetic,True,,True,True
+med_588,Pheniramine,Avil Forte,Sanofi,PKM0000000588,Antihistamines,Antihistamine,False,spring,False,False
+med_589,Amlodipine,Norvasc Forte,Pfizer,PKM0000000589,Antihypertensives,Antihypertensive,True,,True,True
+med_590,Cetirizine,Cetrizet Plus,UCB,PKM0000000590,Antihistamines,Antihistamine,False,spring,True,False
+med_591,Gliclazide,Diamicron Forte,Servier,PKM0000000591,Antidiabetics,Antidiabetic,True,,True,True
+med_592,Bisoprolol,Concor Plus,Merck,PKM0000000592,Antihypertensives,Antihypertensive,True,,True,True
+med_593,Omeprazole,Risek SR,Getz Pharma,PKM0000000593,Gastrointestinal,Gastrointestinal,True,,True,True
+med_594,Pheniramine,Avil SR,Sanofi,PKM0000000594,Antihistamines,Antihistamine,False,spring,False,False
+med_595,Diphenhydramine,Benadryl XR,Johnson & Johnson,PKM0000000595,Respiratory,Respiratory,False,winter,True,False
+med_596,Vitamin B Complex,Neurobion Plus,Merck,PKM0000000596,Vitamins,Vitamin/Supplement,False,,True,False
+med_597,Paracetamol,Disprol Forte,Reckitt Benckiser,PKM0000000597,Analgesics,NSAID/Analgesic,False,,True,False
+med_598,Diclofenac,Voltaren XR,Novartis,PKM0000000598,Analgesics,NSAID/Analgesic,False,,True,False
+med_599,Amoxicillin,Amoxil XR,GSK,PKM0000000599,Antibiotics,Antibiotic,True,,True,True
+med_600,Amlodipine,Norvasc SR,Pfizer,PKM0000000600,Antihypertensives,Antihypertensive,True,,True,True
+med_601,Metformin,Glucophage Plus,Merck,PKM0000000601,Antidiabetics,Antidiabetic,True,,True,True
+med_602,Omeprazole,Risek Plus,Getz Pharma,PKM0000000602,Gastrointestinal,Gastrointestinal,True,,True,True
+med_603,Amoxicillin + Clavulanic Acid,Augmentin Plus,GSK,PKM0000000603,Antibiotics,Antibiotic,True,,True,True
+med_604,Cetirizine,Cetrizet XR,UCB,PKM0000000604,Antihistamines,Antihistamine,False,spring,True,False
+med_605,Esomeprazole,Nexium Forte,AstraZeneca,PKM0000000605,Gastrointestinal,Gastrointestinal,True,,True,True
+med_606,Amoxicillin + Clavulanic Acid,Augmentin SR,GSK,PKM0000000606,Antibiotics,Antibiotic,True,,True,True
+med_607,Bisoprolol,Concor SR,Merck,PKM0000000607,Antihypertensives,Antihypertensive,True,,True,True
+med_608,Bisoprolol,Concor XR,Merck,PKM0000000608,Antihypertensives,Antihypertensive,True,,True,True
+med_609,Mefenamic Acid,Ponstan SR,Pfizer,PKM0000000609,Analgesics,NSAID/Analgesic,False,,False,False
+med_610,Fluticasone + Salmeterol,Seretide XR,GSK,PKM0000000610,Respiratory,Respiratory,True,winter,False,True
+med_611,Pheniramine,Avil XR,Sanofi,PKM0000000611,Antihistamines,Antihistamine,False,spring,False,False
+med_612,Amlodipine,Norvasc SR,Pfizer,PKM0000000612,Antihypertensives,Antihypertensive,True,,True,True
+med_613,Mefenamic Acid,Ponstan Plus,Pfizer,PKM0000000613,Analgesics,NSAID/Analgesic,False,,False,False
+med_614,Iron + Folic Acid,Fefol SR,GSK,PKM0000000614,Vitamins,Vitamin/Supplement,False,,True,False
+med_615,Cetirizine,Cetrizet Forte,UCB,PKM0000000615,Antihistamines,Antihistamine,False,spring,True,False
+med_616,Gliclazide,Diamicron SR,Servier,PKM0000000616,Antidiabetics,Antidiabetic,True,,True,True
+med_617,Paracetamol,Panadol Forte,GSK,PKM0000000617,Analgesics,NSAID/Analgesic,False,,True,False
+med_618,Multivitamin,Becosules Plus,Pfizer,PKM0000000618,Vitamins,Vitamin/Supplement,False,,True,False
+med_619,Multivitamin,Becosules Forte,Pfizer,PKM0000000619,Vitamins,Vitamin/Supplement,False,,True,False
+med_620,Omeprazole,Risek SR,Getz Pharma,PKM0000000620,Gastrointestinal,Gastrointestinal,True,,True,True
+med_621,Salbutamol,Ventolin XR,GSK,PKM0000000621,Respiratory,Respiratory,True,winter,True,True
+med_622,Multivitamin,Becosules XR,Pfizer,PKM0000000622,Vitamins,Vitamin/Supplement,False,,True,False
+med_623,Metformin,Glucophage XR,Merck,PKM0000000623,Antidiabetics,Antidiabetic,True,,True,True
+med_624,Gliclazide,Diamicron Forte,Servier,PKM0000000624,Antidiabetics,Antidiabetic,True,,True,True
+med_625,Mefenamic Acid,Ponstan Plus,Pfizer,PKM0000000625,Analgesics,NSAID/Analgesic,False,,False,False
+med_626,Azithromycin,Zithromax Plus,Pfizer,PKM0000000626,Antibiotics,Antibiotic,True,,True,True
+med_627,Nifedipine,Adalat Plus,Bayer,PKM0000000627,Antihypertensives,Antihypertensive,True,,True,True
+med_628,Mefenamic Acid,Ponstan SR,Pfizer,PKM0000000628,Analgesics,NSAID/Analgesic,False,,False,False
+med_629,Paracetamol,Disprol XR,Reckitt Benckiser,PKM0000000629,Analgesics,NSAID/Analgesic,False,,True,False
+med_630,Metformin,Glucophage Forte,Merck,PKM0000000630,Antidiabetics,Antidiabetic,True,,True,True
+med_631,Metformin,Glucophage Forte,Merck,PKM0000000631,Antidiabetics,Antidiabetic,True,,True,True
+med_632,Diclofenac,Voltaren XR,Novartis,PKM0000000632,Analgesics,NSAID/Analgesic,False,,True,False
+med_633,Nifedipine,Adalat XR,Bayer,PKM0000000633,Antihypertensives,Antihypertensive,True,,True,True
+med_634,Paracetamol,Disprol Forte,Reckitt Benckiser,PKM0000000634,Analgesics,NSAID/Analgesic,False,,True,False
+med_635,Diphenhydramine,Benadryl SR,Johnson & Johnson,PKM0000000635,Respiratory,Respiratory,False,winter,True,False
+med_636,Ciprofloxacin,Ciproxin XR,Bayer,PKM0000000636,Antibiotics,Antibiotic,True,,True,True
+med_637,Ciprofloxacin,Ciproxin XR,Bayer,PKM0000000637,Antibiotics,Antibiotic,True,,True,True
+med_638,Gliclazide,Diamicron SR,Servier,PKM0000000638,Antidiabetics,Antidiabetic,True,,True,True
+med_639,Pheniramine,Avil Forte,Sanofi,PKM0000000639,Antihistamines,Antihistamine,False,spring,False,False
+med_640,Omeprazole,Risek Plus,Getz Pharma,PKM0000000640,Gastrointestinal,Gastrointestinal,True,,True,True
+med_641,Multivitamin,Becosules XR,Pfizer,PKM0000000641,Vitamins,Vitamin/Supplement,False,,True,False
+med_642,Pheniramine,Avil SR,Sanofi,PKM0000000642,Antihistamines,Antihistamine,False,spring,False,False
+med_643,Diclofenac,Cataflam Plus,Novartis,PKM0000000643,Analgesics,NSAID/Analgesic,False,,True,False
+med_644,Cetirizine,Cetrizet XR,UCB,PKM0000000644,Antihistamines,Antihistamine,False,spring,True,False
+med_645,Amoxicillin,Amoxil SR,GSK,PKM0000000645,Antibiotics,Antibiotic,True,,True,True
+med_646,Paracetamol,Panadol SR,GSK,PKM0000000646,Analgesics,NSAID/Analgesic,False,,True,False
+med_647,Paracetamol,Panadol SR,GSK,PKM0000000647,Analgesics,NSAID/Analgesic,False,,True,False
+med_648,Diclofenac,Cataflam Forte,Novartis,PKM0000000648,Analgesics,NSAID/Analgesic,False,,True,False
+med_649,Pheniramine,Avil Forte,Sanofi,PKM0000000649,Antihistamines,Antihistamine,False,spring,False,False
+med_650,Vitamin B Complex,Neurobion XR,Merck,PKM0000000650,Vitamins,Vitamin/Supplement,False,,True,False
+med_651,Diclofenac,Cataflam Forte,Novartis,PKM0000000651,Analgesics,NSAID/Analgesic,False,,True,False
+med_652,Gliclazide,Diamicron XR,Servier,PKM0000000652,Antidiabetics,Antidiabetic,True,,True,True
+med_653,Vitamin B Complex,Neurobion Plus,Merck,PKM0000000653,Vitamins,Vitamin/Supplement,False,,True,False
+med_654,Cetirizine,Zyrtec XR,UCB,PKM0000000654,Antihistamines,Antihistamine,False,spring,True,False
+med_655,Ciprofloxacin,Ciproxin Forte,Bayer,PKM0000000655,Antibiotics,Antibiotic,True,,True,True
+med_656,Diphenhydramine,Benadryl Plus,Johnson & Johnson,PKM0000000656,Respiratory,Respiratory,False,winter,True,False
+med_657,Multivitamin,Becosules XR,Pfizer,PKM0000000657,Vitamins,Vitamin/Supplement,False,,True,False
+med_658,Ciprofloxacin,Ciproxin SR,Bayer,PKM0000000658,Antibiotics,Antibiotic,True,,True,True
+med_659,Bisoprolol,Concor Plus,Merck,PKM0000000659,Antihypertensives,Antihypertensive,True,,True,True
+med_660,Gliclazide,Diamicron SR,Servier,PKM0000000660,Antidiabetics,Antidiabetic,True,,True,True
+med_661,Omeprazole,Risek Forte,Getz Pharma,PKM0000000661,Gastrointestinal,Gastrointestinal,True,,True,True
+med_662,Diclofenac,Cataflam Forte,Novartis,PKM0000000662,Analgesics,NSAID/Analgesic,False,,True,False
+med_663,Aspirin,Disprin Forte,Reckitt Benckiser,PKM0000000663,Analgesics,NSAID/Analgesic,False,,True,False
+med_664,Cetirizine,Zyrtec Plus,UCB,PKM0000000664,Antihistamines,Antihistamine,False,spring,True,False
+med_665,Metronidazole,Flagyl SR,Sanofi,PKM0000000665,Antibiotics,Antibiotic,True,,True,True
+med_666,Metronidazole,Flagyl SR,Sanofi,PKM0000000666,Antibiotics,Antibiotic,True,,True,True
+med_667,Cetirizine,Zyrtec Plus,UCB,PKM0000000667,Antihistamines,Antihistamine,False,spring,True,False
+med_668,Esomeprazole,Nexium Forte,AstraZeneca,PKM0000000668,Gastrointestinal,Gastrointestinal,True,,True,True
+med_669,Domperidone,Motilium Forte,Janssen,PKM0000000669,Gastrointestinal,Gastrointestinal,False,,True,False
+med_670,Azithromycin,Zithromax Forte,Pfizer,PKM0000000670,Antibiotics,Antibiotic,True,,True,True
+med_671,Glimepiride,Amaryl SR,Sanofi,PKM0000000671,Antidiabetics,Antidiabetic,True,,True,True
+med_672,Amlodipine,Norvasc SR,Pfizer,PKM0000000672,Antihypertensives,Antihypertensive,True,,True,True
+med_673,Aspirin,Disprin SR,Reckitt Benckiser,PKM0000000673,Analgesics,NSAID/Analgesic,False,,True,False
+med_674,Mefenamic Acid,Ponstan Plus,Pfizer,PKM0000000674,Analgesics,NSAID/Analgesic,False,,False,False
+med_675,Mefenamic Acid,Ponstan XR,Pfizer,PKM0000000675,Analgesics,NSAID/Analgesic,False,,False,False
+med_676,Ibuprofen,Brufen SR,Abbott,PKM0000000676,Analgesics,NSAID/Analgesic,False,,True,False
+med_677,Vitamin B Complex,Neurobion XR,Merck,PKM0000000677,Vitamins,Vitamin/Supplement,False,,True,False
+med_678,Paracetamol,Panadol XR,GSK,PKM0000000678,Analgesics,NSAID/Analgesic,False,,True,False
+med_679,Cetirizine,Cetrizet Plus,UCB,PKM0000000679,Antihistamines,Antihistamine,False,spring,True,False
+med_680,Domperidone,Motilium Forte,Janssen,PKM0000000680,Gastrointestinal,Gastrointestinal,False,,True,False
+med_681,Esomeprazole,Nexium XR,AstraZeneca,PKM0000000681,Gastrointestinal,Gastrointestinal,True,,True,True
+med_682,Salbutamol,Ventolin Forte,GSK,PKM0000000682,Respiratory,Respiratory,True,winter,True,True
+med_683,Vitamin B Complex,Neurobion Plus,Merck,PKM0000000683,Vitamins,Vitamin/Supplement,False,,True,False
+med_684,Paracetamol,Panadol SR,GSK,PKM0000000684,Analgesics,NSAID/Analgesic,False,,True,False
+med_685,Diclofenac,Voltaren XR,Novartis,PKM0000000685,Analgesics,NSAID/Analgesic,False,,True,False
+med_686,Omeprazole,Risek Forte,Getz Pharma,PKM0000000686,Gastrointestinal,Gastrointestinal,True,,True,True
+med_687,Ibuprofen,Brufen Forte,Abbott,PKM0000000687,Analgesics,NSAID/Analgesic,False,,True,False
+med_688,Pheniramine,Avil Plus,Sanofi,PKM0000000688,Antihistamines,Antihistamine,False,spring,False,False
+med_689,Gliclazide,Diamicron SR,Servier,PKM0000000689,Antidiabetics,Antidiabetic,True,,True,True
+med_690,Nifedipine,Adalat SR,Bayer,PKM0000000690,Antihypertensives,Antihypertensive,True,,True,True
+med_691,Domperidone,Motilium Plus,Janssen,PKM0000000691,Gastrointestinal,Gastrointestinal,False,,True,False
+med_692,Salbutamol,Ventolin Forte,GSK,PKM0000000692,Respiratory,Respiratory,True,winter,True,True
+med_693,Ciprofloxacin,Ciproxin SR,Bayer,PKM0000000693,Antibiotics,Antibiotic,True,,True,True
+med_694,Diphenhydramine,Benadryl XR,Johnson & Johnson,PKM0000000694,Respiratory,Respiratory,False,winter,True,False
+med_695,Cetirizine,Cetrizet Forte,UCB,PKM0000000695,Antihistamines,Antihistamine,False,spring,True,False
+med_696,Vitamin B Complex,Neurobion XR,Merck,PKM0000000696,Vitamins,Vitamin/Supplement,False,,True,False
+med_697,Glimepiride,Amaryl Plus,Sanofi,PKM0000000697,Antidiabetics,Antidiabetic,True,,True,True
+med_698,Metformin,Glucophage SR,Merck,PKM0000000698,Antidiabetics,Antidiabetic,True,,True,True
+med_699,Amoxicillin + Clavulanic Acid,Augmentin SR,GSK,PKM0000000699,Antibiotics,Antibiotic,True,,True,True
+med_700,Pheniramine,Avil XR,Sanofi,PKM0000000700,Antihistamines,Antihistamine,False,spring,False,False
